@@ -4,7 +4,8 @@ A quick-start project that helps you bind list data and service URLs to a Syncfu
 
 Watch the video: Coming soon...
 
-Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/getting-started 
+Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/getting-started
+
 Online example: https://blazor.syncfusion.com/demos/gantt-chart/default-functionalities
 
 ## Project prerequisites
