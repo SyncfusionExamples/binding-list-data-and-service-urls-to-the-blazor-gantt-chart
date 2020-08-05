@@ -4,7 +4,7 @@ A quick-start project that helps you bind list data and service URLs to a Syncfu
 
 Watch the video: Coming soon...
 
-Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/getting-started
+Documentation: https://blazor.syncfusion.com/documentation/gantt-chart/getting-started 
 Online example: https://blazor.syncfusion.com/demos/gantt-chart/default-functionalities
 
 ## Project prerequisites
@@ -16,4 +16,4 @@ Make sure you have the compatible version of .NET Core on your machine before st
 To run this application, you need to first clone or download the ‘binding list data and service urls to the blazor gantt chart’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
 
 ## Further help
-For more help, check the [ASP.NET Core Blazor documentation] (https://docs.microsoft.com/en-us/aspnet/core/blazor).
+For more help, check the [ASP.NET Core Blazor documentation](https://docs.microsoft.com/en-us/aspnet/core/blazor).
