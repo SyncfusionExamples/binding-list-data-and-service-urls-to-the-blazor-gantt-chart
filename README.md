@@ -1,5 +1,7 @@
 # Binding List Data and Service URLs to the Blazor Gantt Chart
 
+The [Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) is a project planning and management tool that provides a Microsoft Project-like interface to display and manage hierarchical tasks with timeline details. 
+
 This repository contains a quick‑start sample that demonstrates how to bind local list data and remote service URLs to the Syncfusion Blazor Gantt Chart in a Blazor WebAssembly application. The sample shows how to work with Self-referential task data as well as data retrieved from remote services.
 
 ## Project overview
@@ -41,6 +43,14 @@ The sample highlights common data‑binding patterns used in Gantt‑based appli
 
 ## Further help
 For more help, check the [Syncfusion Blazor Gantt Documentation](https://blazor.syncfusion.com/documentation/gantt-chart/data-binding).
+
+## Related links
+[Learn More about Blazor Gantt Chart](https://www.syncfusion.com/blazor-components/blazor-gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Watch a How-to Video](https://www.syncfusion.com/tutorial-videos/blazor/gantt-chart?title=create-a-gantt-chart-component-in-a-blazor-webassembly) <br/><br/>
+[Community Forums](https://www.syncfusion.com/forums/blazor-components/gantt-chart?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples) <br/><br/>
+[Suggest a feature](https://www.syncfusion.com/feedback/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-gantt-chart-github-samples)
 
 ## Syncfusion License
 
